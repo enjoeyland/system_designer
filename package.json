@@ -1,0 +1,13 @@
+{
+  "name": "Test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./Test.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enjoeyland/system_designer"
+  },
+  "dependencies": {
+    "system-runtime": "^2.3.0"
+  }
+}
